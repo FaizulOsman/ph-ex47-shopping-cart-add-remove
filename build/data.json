@@ -1,0 +1,156 @@
+[
+  {
+    "id": "632e1a4a16811bf0284ec453",
+    "age": 23,
+    "eyeColor": "brown",
+    "name": "Paige Gregory",
+    "email": "paigegregory@zoarere.com",
+    "phone": "+1 (931) 564-2280",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Ollie Leach"
+      },
+      {
+        "id": 1,
+        "name": "Randall Glover"
+      },
+      {
+        "id": 2,
+        "name": "Lewis Gaines"
+      }
+    ]
+  },
+  {
+    "id": "632e1a4a195e551b2e9ee143",
+    "age": 39,
+    "eyeColor": "blue",
+    "name": "Mcdonald Middleton",
+    "email": "mcdonaldmiddleton@zoarere.com",
+    "phone": "+1 (844) 599-2982",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Lucinda Clarke"
+      },
+      {
+        "id": 1,
+        "name": "Jacklyn Kidd"
+      },
+      {
+        "id": 2,
+        "name": "Conley Berger"
+      }
+    ]
+  },
+  {
+    "id": "632e1a4afd5a9428c9f4d93c",
+    "age": 39,
+    "eyeColor": "brown",
+    "name": "Conner Guthrie",
+    "email": "connerguthrie@zoarere.com",
+    "phone": "+1 (905) 511-3115",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Wilder Randall"
+      },
+      {
+        "id": 1,
+        "name": "Jeannette Sears"
+      },
+      {
+        "id": 2,
+        "name": "Stuart Rutledge"
+      }
+    ]
+  },
+  {
+    "id": "632e1a4a986eaafb72dafcb5",
+    "age": 20,
+    "eyeColor": "brown",
+    "name": "Harrison Rasmussen",
+    "email": "harrisonrasmussen@zoarere.com",
+    "phone": "+1 (842) 509-3633",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Luna Caldwell"
+      },
+      {
+        "id": 1,
+        "name": "Webb Gallagher"
+      },
+      {
+        "id": 2,
+        "name": "Keller Logan"
+      }
+    ]
+  },
+  {
+    "id": "632e1a4a1daec7e8ae115eaa",
+    "age": 21,
+    "eyeColor": "blue",
+    "name": "Kelley Davenport",
+    "email": "kelleydavenport@zoarere.com",
+    "phone": "+1 (915) 400-3165",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Sheppard Kerr"
+      },
+      {
+        "id": 1,
+        "name": "Darla Holloway"
+      },
+      {
+        "id": 2,
+        "name": "Wright Pace"
+      }
+    ]
+  },
+  {
+    "id": "632e1a4a766329711748cedc",
+    "age": 40,
+    "eyeColor": "blue",
+    "name": "Montoya Stout",
+    "email": "montoyastout@zoarere.com",
+    "phone": "+1 (936) 449-2872",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Sykes Mccarthy"
+      },
+      {
+        "id": 1,
+        "name": "Cara Hale"
+      },
+      {
+        "id": 2,
+        "name": "Hopkins Flores"
+      }
+    ]
+  },
+  {
+    "id": "632e1a4a43ae6c167a4d9119",
+    "age": 24,
+    "eyeColor": "green",
+    "name": "Cruz Reyes",
+    "email": "cruzreyes@zoarere.com",
+    "phone": "+1 (895) 426-2573",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Daniels Rivera"
+      },
+      {
+        "id": 1,
+        "name": "Pearson Dickerson"
+      },
+      {
+        "id": 2,
+        "name": "Best Bender"
+      }
+    ]
+  }
+]
